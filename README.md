@@ -2,7 +2,7 @@
 
 I'm an independent computer science researcher in New York. I study how connected devices can share health data reliably and securely, especially when the sensors collecting it have limited battery power.
 
-[Portfolio](https://azzawi91.github.io/) [Website](https://azzawi.me/) · [Google Scholar](https://scholar.google.com/citations?user=7yiUcQ4AAAAJ) · [LinkedIn](https://www.linkedin.com/in/mustafa-azzawi/)
+[Portfolio](https://azzawi91.github.io/) · [Website](https://azzawi.me/) · [Google Scholar](https://scholar.google.com/citations?user=7yiUcQ4AAAAJ) · [LinkedIn](https://www.linkedin.com/in/mustafa-azzawi/)
 
 ## 🔬 Research in code
 

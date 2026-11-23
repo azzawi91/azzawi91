@@ -2,7 +2,7 @@
 
 I'm an independent computer science researcher in New York. I study how connected devices can share health data reliably and securely, especially when the sensors collecting it have limited battery power.
 
-[Website](https://azzawi.me/) · [Google Scholar](https://scholar.google.com/citations?user=7yiUcQ4AAAAJ) · [LinkedIn](https://www.linkedin.com/in/mustafa-azzawi/)
+[Portfolio]([https://azzawi.me/](https://azzawi91.github.io/) [Website](https://azzawi.me/) · [Google Scholar](https://scholar.google.com/citations?user=7yiUcQ4AAAAJ) · [LinkedIn](https://www.linkedin.com/in/mustafa-azzawi/)
 
 ## 🔬 Research in code
 
@@ -19,6 +19,8 @@ Accepted at **ICONS2026**. Publication in the Springer conference proceedings is
 | Year | Paper |
 | --- | --- |
 | 2025 | [IoT and Wearable Technology in Patient Monitoring: Business Analytics Applications for Real-Time Health Management](https://www.theamericanjournals.com/index.php/tajet/article/view/6551) |
+| 2025 | [Leveraging artificial intelligence for strategic decision-making in healthcare organizations: a business it perspective](https://theamericanjournals.com/index.php/tajas/article/view/6550/6039) |
+| 2023 | [An Adaptive Privacy Preserving Framework for Distributed Association Rule Mining in Healthcare Databases](https://www.sciencedirect.com/org/science/article/pii/S1546221822004751) |
 | 2017 | [Reliable and Secure Traffic Exchange Approach for Internet of Things (IoT) Devices](https://ijoes.vidyapublications.com/paper/Vol23/ictms17-1.pdf) |
 | 2016 | [A Review on Internet of Things (IoT) in Healthcare](https://www.researchgate.net/publication/309718253_A_Review_on_Internet_of_Things_IoT_in_Healthcare) |
 
